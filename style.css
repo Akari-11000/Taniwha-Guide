@@ -1,0 +1,477 @@
+body {
+    background-color: #e0f2ff;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #3399ff; 
+    padding: auto;
+    color: #fff; 
+  }
+  
+.domain {
+    display: flex;
+    padding: 5px;
+}
+
+.logo {
+  display: flex;
+  width: 150px;
+  height: 150px;
+  padding-left: 50px;
+  padding-top: 40px;
+}
+
+.domain-text {
+    display: flex;
+    padding-left: 50px;
+    padding-top:  80px;
+}
+
+.banner {
+    text-align: center;
+    padding: 100px;
+    background-image: url("banner.jpeg"); 
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    
+  }
+
+.banner1 {
+    text-align: center;
+    padding: 100px;
+    background-image: url("Region-Christchurch-Canterbury-Port-Hills-Sumner-View-Scenery-Banner-2000x900.jpg"); 
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+      
+} 
+
+.banner2 {
+    text-align: center;
+    padding: 100px;
+    background-image: url("download.jpeg"); 
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+      
+}
+
+.banner3 {
+    text-align: center;
+    padding: 100px;
+    background-image: url("https://cf2.bstatic.com/xdata/images/hotel/max1024x768/155533775.jpg?k=59e6a360dab1e924eab373ece0f3b8dae3e46fe08989882a71e5c02e04467728&o=&hp=1"); 
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    
+}
+
+.banner4 {
+  text-align: center;
+  padding: 100px;
+  background-image: url("https://www.wmza.co.nz/portals/12/images/projects/333-FCMerivale1.jpg"); 
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  
+}
+
+.banner5 {
+  text-align: center;
+  padding: 100px;
+  background-image: url("https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_560,q_65,w_1440/v1/clients/southlandnz/Feast_Matariki_Southland_New_Zealand_Credit_Great_South_15_1__e64d7e8a-cd1d-461c-ba03-2d675bbec5fd.jpg"); 
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  
+}
+
+.banner6 {
+  text-align: center;
+  padding: 100px;
+  background-image: url("https://cdn.eventfinda.co.nz/uploads/content/transformed/1748462-6224-35.jpg"); 
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  
+}
+
+.banner7 {
+  text-align: center;
+  padding: 100px;
+  background-image: url("https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ystsxlgpjfsnxyob59vk/Christchurch%20Adventure%20Park%20Activity%20Tickets.jpg"); 
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  
+}
+
+.banner8 {
+  text-align: center;
+  padding: 100px;
+  background-image: url("https://www.christchurchnz.com/media/q45bq1fr/evil_genius_bar_christchurch_inside_bar.jpg?width=640&height=380&format=webp&quality=70&mode=crop&center=0.5,0.5https://www.bournemouth.co.uk/imageresizer/?image=%2Fdbimgs%2FChristchurch-food-shot.jpg&action=FeaturedPagesLargeMediaGal"); 
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+
+}
+
+.banner9 {
+  text-align: center;
+  padding: 100px;
+  background-image: url("https://a.travel-assets.com/findyours-php/viewfinder/images/res70/235000/235896-New-Regent-Street.jpg"); 
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+
+}
+  
+.top-ui {
+    display: flex;  
+    margin-left: 85%;
+    margin-top: -180px;
+    justify-content: baseline;
+    font-size: 20px;
+}
+
+.row {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+  }
+
+.menu {
+    margin-top: 20px;
+    display: flex;
+    gap: 0px;
+}
+
+.img-hotel{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.img-market{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  height: 400px;
+}
+
+.img-food{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-ac{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-rt{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  height: 400px;
+}
+
+.img-ld{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  height: 400px;
+}
+
+.F{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 400px;
+}
+
+.map {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-history {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title-menu {
+    margin-top: 20px;
+    display: flex;
+    gap: 520px;
+    height: 40px;
+    width: 80px;
+}
+
+.t1{
+  display: flex;
+  margin-left: 240px;
+  gap: 100px;
+}
+
+.t2 {
+  display: flex;
+  margin-left: 10px;
+  gap: 100px;
+}
+
+.t3 {
+  display: flex;
+  margin-left: 5px;
+  gap: 100px;
+}
+
+.t4 {
+  display: flex;
+  margin-left: 220px;
+  gap: 100px;
+}
+
+.t5 {
+  display: flex;
+  margin-left: -30px;
+  gap: 100px;
+}
+
+.t6 {
+  display: flex;
+  margin-left: -5px;
+  gap: 100px;
+}
+
+.t7 {
+  display: flex;
+  margin-left: 220px;
+  gap: 100px;
+}
+
+.t8 {
+  display: flex;
+  margin-left: 10px;
+  gap: 100px;
+}
+
+.t9 {
+  display: flex;
+  margin-left: 0px;
+  gap: 100px;
+}
+
+
+.content-menu {
+    margin-top: 20px;
+    display: flex;
+    gap: 100px;
+}
+
+.p1 {
+  display: flex;
+  margin-left: 210px;
+  gap: 100px;
+}
+
+.p2 {
+  display: flex;
+  margin-left: 390px;
+  gap: 100px;
+}
+
+.p3 {
+  display: flex;
+  margin-left: 320px;
+  gap: 100px;
+}
+
+.p4 {
+  display: flex;
+  margin-left: 140px;
+  gap: 100px;
+}
+
+.p5 {
+  display: flex;
+  margin-left: 240px;
+  gap: 100px;
+}
+
+.p6 {
+  display: flex;
+  margin-left: 270px;
+  gap: 100px;
+}
+
+.p7 {
+  display: flex;
+  margin-left: 180px;
+  gap: 100px;
+}
+
+.p8 {
+  display: flex;
+  margin-left: 320px;
+  gap: 100px;
+}
+
+.p9 {
+  display: flex;
+  margin-left: 370px;
+  gap: 100px;
+}
+
+.button-menu {
+  margin-top: 20px;
+  display: flex;
+  gap: 520px;
+}
+  
+.b1{
+  display: flex;
+  margin-left: 260px;
+  background-color: aquamarine;
+  border-radius: 25px;
+  font-size: 15px;
+}
+
+.b2 {
+  display: flex;
+  margin-left: 80px;
+  background-color: aquamarine;
+  border-radius: 25px;
+  font-size: 15px;
+}
+
+.b3 {
+  display: flex;
+  margin-left: 50px;
+  background-color: aquamarine;
+  border-radius: 25px;
+  font-size: 15px;
+}
+
+.landscape-item img {
+    width: 500px;
+    height: 250px;
+    object-fit: cover;
+    margin: 80px;
+    display: flex;
+}
+
+.bottom-contect{
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+.booking{
+  display: flex;
+  margin-left: 880px;
+  background-color: aquamarine;
+  border-radius: 25px;
+  font-size: 20px;
+}
+
+.findrt{
+  display: flex;
+  margin-left: 850px;
+  background-color: aquamarine;
+  border-radius: 25px;
+  font-size: 20px;
+}
+
+.landlo{
+  display: flex;
+  margin-left: 850px;
+  background-color: aquamarine;
+  border-radius: 25px;
+  font-size: 20px;
+}
+
+.contect-title{
+  margin-top: 150px;
+}
+
+.SMcontect-title{
+  margin-top: 50px;
+}
+
+.bottom-logo{
+  display: flex;
+  justify-content: baseline;
+  padding-left: 1500px;
+  padding-top: -20px;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+}
+
+.clip {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-left: 660px;
+}
+
+  
+.mail{
+  display: flex;
+  padding-left: 10px;
+  justify-content: baseline;
+} 
+
+.telephone{
+  display: flex;
+  padding-left: 10px;
+  justify-content: baseline;
+} 
+
+
+.location{
+  display: flex;
+  padding-left: 10px;
+  justify-content: baseline;
+} 
+
+.mailtext{
+  display: flex;
+  padding-top: 20px;
+  justify-content: baseline;
+}
+
+.telephonetext{
+  display: flex;
+  padding-top: 20px;
+  justify-content: baseline;
+}
+
+.locationtext{
+  display: flex;
+  padding-top: 20px;
+  justify-content: baseline;
+}
+
+
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+    padding: 10px;
+    background-color: #3399ff; 
+    color: #fff; 
+  }
