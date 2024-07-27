@@ -9,7 +9,7 @@ Web application
 
 
 ------------------------------------------------------------------------------------------------------------------
-|                 Special Thanks : 「  Miss Wilma Camid Sadio | Miss Nannaphat Thaiying  」                      | 
+                Special Thanks : 「  Miss Wilma Camid Sadio | Miss Nannaphat Thaiying  」                      
 ------------------------------------------------------------------------------------------------------------------
 
 Special Thanks For Support : 「 Education New Zealand | Christchurch Educated | Code Avengers | Kiwi Centre 」
