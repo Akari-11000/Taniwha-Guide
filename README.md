@@ -1,7 +1,7 @@
 # Taniwha-Guide
 Your Travelling Guide To Christchurch, New Zealand
 
-![IMG_3ะ568]([https://github.com/Akari-11000/Web-application-durian-disease/assets/80401493/1b41afe2-cef4-4ec1-8225-4f70a7d00dbf](https://github.com/user-attachments/assets/bbbd5089-ebba-4e47-823f-8f773e1835a4))
+![LINE_ALBUM_2962567 BE _3_240727_1](https://github.com/user-attachments/assets/640bb278-8701-4176-b8da-b99d764f058d)
 
 Web application 
   [https://docplantproject.web.app](https://taniwha-guide.web.app/index.html)
