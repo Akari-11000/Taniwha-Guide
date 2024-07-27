@@ -8,9 +8,9 @@ Web application
   [[https://taniwha-guide.web.app/index.html](https://taniwha-guide.web.app/index.html)]
 
 
-------------------------------------------------------------------------------
-|  Special Thanks : 「  Miss Wilma Camid Sadio | Miss Nannaphat Thaiying  」 |                    
-------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+|  Special Thanks : 「  Miss Wilma Camid Sadio | Miss Nannaphat Thaiying | Mr. Thanakit   Pa-garm  」 |                    
+------------------------------------------------------------------------------------------------------
 
 Special Thanks For Support : 「 Education New Zealand | Christchurch Educated | Code Avengers | Kiwi Centre 」
 
