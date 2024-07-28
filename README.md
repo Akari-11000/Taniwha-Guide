@@ -10,10 +10,11 @@ Web application
 
 ----------------------------------------------------------------------------------------
 | Special Thanks  |
+----------------------------------------------------------------------------------------
 「　Miss Wilma Camid Sadio 」
 「　Miss Nannaphat Thaiying 」          
 「　Mr. Thanakit Pa-garm 」 
---------------------------------------------------------------------------------------------                                           
+                                         
 Special Thanks For Support : 「 Education New Zealand | Christchurch Educated 」     
 Special Thanks For Support :         「 Code Avengers | Kiwi Centre 」               
 
