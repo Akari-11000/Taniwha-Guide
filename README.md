@@ -10,10 +10,10 @@ Web application
   [[https://taniwha-guide.web.app/index.html](https://taniwha-guide.web.app/index.html)]
   
 # Our Team :
-  Phattaradanai Suwannahong
-  Thammarat Suwanatrai
-  Sirawit Suksarun
-  Panyapat Wanasuk
+Phattaradanai Suwannahong
+Thammarat Suwanatrai
+Sirawit Suksarun
+Panyapat Wanasuk
 ----------------------------------------------------------------------------------------
 Special Thanks :
 ----------------------------------------------------------------------------------------
