@@ -5,18 +5,22 @@ Your Travelling Guide To Christchurch, New Zealand
 
 -------------------------------------------------------------------------------------------
 
-# Our Website
+# Our Website :
 Web application 
   [[https://taniwha-guide.web.app/index.html](https://taniwha-guide.web.app/index.html)]
-
-
+  
+# Our Team :
+  Phattaradanai Suwannahong
+  Thammarat Suwanatrai
+  Sirawit Suksarun
+  Panyapat Wanasuk
 ----------------------------------------------------------------------------------------
-Special Thanks  
+Special Thanks :
 ----------------------------------------------------------------------------------------
 Miss Wilma Camid Sadio | Miss Nannaphat Thaiying          
 Mr. Thanakit Pa-garm 
 ----------------------------------------------------------------------------------------
-Special Thanks For Support
+Special Thanks For Support :
 ----------------------------------------------------------------------------------------                                         
 Education New Zealand | Christchurch Educated    
 Code Avengers | Kiwi Centre              
