@@ -27,4 +27,4 @@ Education New Zealand | Think New | Christchurch Educated | Code Avengers | Kiwi
 
 ----------------------------------------------------------------------------------------
 
-![Image of Taniwha Guide]([[https://taniwha-guide.web.app/S__3489800.jpg](https://taniwha-guide.web.app/S__3489800.jpg)])
+![Image of Taniwha Guide]([https://taniwha-guide.web.app/S__3489800.jpg])
