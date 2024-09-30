@@ -23,7 +23,7 @@ Miss Wilma Camid Sadio | Miss Nannaphat Thaiying | Mr. Thanakit Pa-garm
 ----------------------------------------------------------------------------------------
 
 # Special Thanks For Support :                                    
-Education New Zealand | Christchurch Educated | Code Avengers | Kiwi Centre           
+Education New Zealand | Think New | Christchurch Educated | Code Avengers | Kiwi Centre           
 
 ----------------------------------------------------------------------------------------
 
