@@ -2,7 +2,7 @@
 # Taniwha-Guide
 # Your Travelling Guide To Christchurch, New Zealand
 
-![Image of Taniwha Guide](file:///D:/!/LINE_ALBUM_3182567%20BE_240901_8.jpg)
+![Image of Taniwha Guide](https://drive.google.com/file/d/1GnhaUZbFWzvFP3R8NZkZ5tr_Sa4k2atG/view)
 ![LINE_ALBUM_2962567 BE _3_240727_1](https://github.com/user-attachments/assets/640bb278-8701-4176-b8da-b99d764f058d)
 
 -------------------------------------------------------------------------------------------
